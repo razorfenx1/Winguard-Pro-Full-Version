@@ -237,3 +237,6 @@ This repository serves as the official landing page for WinGuard Pro. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WinGuard Pro today!**
+
+---
+**Last updated:** 2026-09-11 00:38:10 UTC
